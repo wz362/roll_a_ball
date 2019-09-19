@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8F0A54F0-5A0E-B6A5-A79C-E691566A2314}</ProjectGuid>
+    <ProjectGuid>{3EA564D1-DD22-B1C4-5E06-748D50A5160A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,31 +66,31 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/Roll a Ball/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/wenjiazhang/Desktop/Fall 2019/ARVR/roll_a_ball/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
